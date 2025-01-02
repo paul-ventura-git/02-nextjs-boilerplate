@@ -8,6 +8,7 @@ export default function Home() {
       <Header></Header>
       <h1>This is the Home Page</h1>
       <p><Link href='/about'>About Us</Link></p>
+      <p><Link href='/blog'>Blog</Link></p>
     </div>
   );
 }
